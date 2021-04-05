@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "pXVQQV0oUitDN1lrtvAMlbAC4RtISm4xPsqm9EydcABdQ0f8zMmE9RHVCHfvcv3kTXATZeyszJ6zpZn1xBpZ8Q==",
+  "dgSpecHash": "ceY9b1PP5JFb/YMC+Y3Notet80anYO7RBojMICzMUkpNSaK1NhvhuBBut0XuYXiSv3G3jqMWwpbRv8i178v2bw==",
   "success": true,
-  "projectFilePath": "/Users/juanpi/Documents/c#_projects/MoviesApi/MoviesApi.csproj",
+  "projectFilePath": "C:\\Users\\JuanPi\\Documents\\c#_projects\\movies-api\\MoviesApi.csproj",
   "expectedPackageFiles": [
-    "/Users/juanpi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/juanpi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/juanpi/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "/Users/juanpi/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "/Users/juanpi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/Users/juanpi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\JuanPi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\JuanPi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JuanPi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\JuanPi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\JuanPi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\JuanPi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }

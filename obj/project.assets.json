@@ -193,25 +193,27 @@
     ]
   },
   "packageFolders": {
-    "/Users/juanpi/.nuget/packages/": {}
+    "C:\\Users\\JuanPi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juanpi/Documents/c#_projects/MoviesApi/MoviesApi.csproj",
+      "projectUniqueName": "C:\\Users\\JuanPi\\Documents\\c#_projects\\movies-api\\MoviesApi.csproj",
       "projectName": "MoviesApi",
-      "projectPath": "/Users/juanpi/Documents/c#_projects/MoviesApi/MoviesApi.csproj",
-      "packagesPath": "/Users/juanpi/.nuget/packages/",
-      "outputPath": "/Users/juanpi/Documents/c#_projects/MoviesApi/obj/",
+      "projectPath": "C:\\Users\\JuanPi\\Documents\\c#_projects\\movies-api\\MoviesApi.csproj",
+      "packagesPath": "C:\\Users\\JuanPi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JuanPi\\Documents\\c#_projects\\movies-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/juanpi/.config/NuGet/NuGet.Config"
+        "C:\\Users\\JuanPi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource1": {}
       },
       "frameworks": {
         "net5.0": {
@@ -252,7 +254,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
