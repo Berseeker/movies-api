@@ -18,14 +18,21 @@ namespace MoviesApi.Services
             };
         }
 
-        public List<Gender> GetAllGenders()
+        public async  Task<List<Gender>> GetAllGenders()
         {
+            await Task.Delay(1);
             return _genders;
         }
 
         public Gender GetGenderById(int Id)
         {
             return _genders.FirstOrDefault(x => x.Id == Id);
+        }
+
+        public void AddGender(Gender gender)
+        {
+            gender.Id = _genders.Max(x => x.Id) + 1;
+            _genders.Add(gender);
         }
     }
 }

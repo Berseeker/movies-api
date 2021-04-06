@@ -8,7 +8,8 @@ namespace MoviesApi.Services
 {
     public interface IRepository
     {
-        List<Gender> GetAllGenders();
+        void AddGender(Gender gender);
+        Task<List<Gender>> GetAllGenders();
         Gender GetGenderById(int Id);
     }
 }
